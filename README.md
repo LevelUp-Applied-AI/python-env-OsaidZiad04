@@ -35,3 +35,11 @@ python -m pip install -r requirements-prework.txt
 
 
 2. Python Scripts: Better for production-ready code, automation, and tasks that need to run reliably as part of a larger system.
+
+------------------------------------
+## How to run
+1. Set up the environment (activate venv, install dependencies)
+
+2. Run the code (what command, from which directory)
+
+3. Confirm success (what output or behavior confirms it works)
