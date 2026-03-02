@@ -27,3 +27,19 @@ python -m pip install -r requirements-prework.txt
 2. Complete the work
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
+
+------------------------------------
+## When to use each
+
+1. Jupyter Notebooks: Best for exploratory data analysis (EDA) and visualization where I need to see immediate results cell by cell.
+
+
+2. Python Scripts: Better for production-ready code, automation, and tasks that need to run reliably as part of a larger system.
+
+------------------------------------
+## How to run
+1. Set up the environment (activate venv, install dependencies)
+
+2. Run the code (what command, from which directory)
+
+3. Confirm success (what output or behavior confirms it works)
